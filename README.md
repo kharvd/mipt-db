@@ -27,3 +27,4 @@
 1. Ограничения ([[1]](https://www.postgresql.org/docs/current/static/ddl-constraints.html)).
 1. Представления ([[1]](https://www.tutorialspoint.com/postgresql/postgresql_views.htm), [[2]](https://www.postgresql.org/docs/current/static/tutorial-views.html), [[3]](https://www.postgresql.org/docs/current/static/sql-createview.html)).
 1. Элементы entity-relationship model ([[1]](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)) и проектирования баз данных ([[1]](https://en.wikipedia.org/wiki/Database_design), [[2]](https://habrahabr.ru/post/193136/))
+1. Работа с PostgreSQL из Python ([[1]](http://initd.org/psycopg/))
